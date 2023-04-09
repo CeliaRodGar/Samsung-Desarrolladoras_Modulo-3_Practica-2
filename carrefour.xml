@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+  <supermercado_1>
+    <nombre>Carrefour</nombre>
+    <dirección>Calle Parque Doñana</dirección>
+    <geolocalización>
+      <norte>37º22'56.64</norte>
+      <oeste>5º58'33.959</oeste>
+    </geolocalización>
+    <productos>
+      <ofertas>
+        <producto>pepino</producto>
+        <unidades>4</unidades>
+        <precio>4.56</precio>
+        <adquirido>true</adquirido>
+        <unidad_de_medida>unidades</unidad_de_medida>
+        <periodo_de_vigencia>09/10/2023 - 25/10/2023</periodo_de_vigencia>
+      </ofertas>
+      <ofertas>
+        <producto>aguacate</producto>
+        <unidades>5</unidades>
+        <precio>6.15</precio>
+        <adquirido>false</adquirido>
+        <unidad_de_medida>unidades</unidad_de_medida>
+        <periodo_de_vigencia>15/11/2023 - 15/12/2023</periodo_de_vigencia>
+      </ofertas>
+      <ofertas>
+        <producto>calabaza</producto>
+        <unidades>1.5</unidades>
+        <precio>3.99</precio>
+        <adquirido>true</adquirido>
+        <unidad_de_medida>kg</unidad_de_medida>
+        <periodo_de_vigencia>03/08/2023 - 27/09/2023</periodo_de_vigencia>
+      </ofertas>
+    </productos>
+    <productos>
+      <productos_habituales_de_consumo_sin_oferta>
+        <producto>plátano</producto>
+        <unidades>0.5</unidades>
+        <precio>2.5</precio>
+        <adquirido>true</adquirido>
+        <unidad_de_medida>kg</unidad_de_medida>
+      </productos_habituales_de_consumo_sin_oferta>
+      <productos_habituales_de_consumo_sin_oferta>
+        <producto>champú</producto>
+        <unidades>1</unidades>
+        <precio>4.3</precio>
+        <adquirido>false</adquirido>
+        <unidad_de_medida>unidades</unidad_de_medida>
+      </productos_habituales_de_consumo_sin_oferta>
+      <productos_habituales_de_consumo_sin_oferta>
+        <producto>zumo de naranja</producto>
+        <unidades>1</unidades>
+        <precio>1.2</precio>
+        <adquirido>true</adquirido>
+        <unidad_de_medida>unidades</unidad_de_medida>
+      </productos_habituales_de_consumo_sin_oferta>
+    </productos>
+  </supermercado_1>

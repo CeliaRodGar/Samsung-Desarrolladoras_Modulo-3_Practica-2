@@ -1,0 +1,256 @@
+{
+    "supermercados":[
+        {
+            "nombre": "Carrefour",
+            "dirección": "Calle Parque Doñana",
+            "geolocalización": [
+                "37º 22' 56.64 N",
+                "5º 58' 33.959 O"
+            ],
+            "productos": [
+                {
+                    "ofertas": [
+                        {
+                            "producto": "pepino",
+                            "unidades": 4,
+                            "unidad de medida": "unidades",
+                            "precio": 4.56,
+                            "periodo de vigencia": "09/10/2023 - 25/10/2023",
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "aguacate",
+                            "unidades": 5,
+                            "unidad de medida": "unidades",
+                            "precio": 6.15,
+                            "periodo de vigencia": "15/11/2023 - 15/12/2023",
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "calabaza",
+                            "unidades": 1.5,
+                            "unidad de medida": "kg",
+                            "precio": 3.99,
+                            "periodo de vigencia": "03/08/2023 - 27/09/2023",
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "productos habituales de consumo sin oferta": [
+                        {
+                            "producto": "plátano",
+                            "unidades": 0.5,
+                            "unidad de medida": "kg",
+                            "precio": 2.5,
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "champú",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 4.3,
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "zumo de naranja",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 1.20,
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "dirección": "Calle Parque Doñana",
+            "geolocalización": [
+                "37º 23' 50.375 N",
+                "5º 57' 59.27 O"
+            ],
+            "productos": [
+                {
+                    "ofertas": [
+                        {
+                            "producto": "pepino",
+                            "unidades": 4,
+                            "unidad de medida": "unidades",
+                            "precio": 4.56,
+                            "periodo de vigencia": "18/07/2023 - 19/08/2023",
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "aguacate",
+                            "unidades": 5,
+                            "unidad de medida": "unidades",
+                            "precio": 6.15,
+                            "periodo de vigencia": "21/05/2023 - 15/06/2023",
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "calabaza",
+                            "unidades": 1.5,
+                            "unidad de medida": "kg",
+                            "precio": 3.99,
+                            "periodo de vigencia": "02/03/2023 - 03/04/2023",
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "productos habituales de consumo sin oferta": [
+                        {
+                            "producto": "plátano",
+                            "unidades": 0.5,
+                            "unidad de medida": "kg",
+                            "precio": 2.5,
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "champú",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 4.3,
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "zumo de naranja",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 1.20,
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "dirección": "Calle Parque Doñana",
+            "geolocalización": [
+                "37º 22' 53.683 N",
+                "6º 0' 15.842 O"
+            ],
+            "productos": [
+                {
+                    "ofertas": [
+                        {
+                            "producto": "pepino",
+                            "unidades": 4,
+                            "unidad de medida": "unidades",
+                            "precio": 3.20,
+                            "periodo de vigencia": "10/04/2023 - 11/06/2023",
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "almendras",
+                            "unidades": 500,
+                            "unidad de medida": "gramos",
+                            "precio": 5.60,
+                            "periodo de vigencia": "13/07/2023 - 25/07/2023",
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "sobres de sopa",
+                            "unidades": 3,
+                            "unidad de medida": "unidades",
+                            "precio": 3.59,
+                            "periodo de vigencia": "26/10/2023 - 05/11/2023",
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "productos habituales de consumo sin oferta": [
+                        {
+                            "producto": "maíz en lata",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 0.75,
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "barra de pan",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 0.25,
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "fresas",
+                            "unidades": 1,
+                            "unidad de medida": "kg",
+                            "precio": 7.40,
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Aldi",
+            "dirección": "Calle Parque Doñana",
+            "geolocalización": [
+                "37º 24' 14.211 N",
+                "5º 58' 35.014 O"
+            ],
+            "productos": [
+                {
+                    "ofertas": [
+                        {
+                            "producto": "pepino",
+                            "unidades": 4,
+                            "unidad de medida": "unidades",
+                            "precio": 4.56,
+                            "periodo de vigencia": "19/09/2023 - 26/09/2023",
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "aguacate",
+                            "unidades": 5,
+                            "unidad de medida": "unidades",
+                            "precio": 6.15,
+                            "periodo de vigencia": "14/01/2023 - 25/01/2023",
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "calabaza",
+                            "unidades": 1.5,
+                            "unidad de medida": "kg",
+                            "precio": 3.99,
+                            "periodo de vigencia": "10/03/2023 - 29/03/2023",
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "productos habituales de consumo sin oferta": [
+                        {
+                            "producto": "plátano",
+                            "unidades": 0.5,
+                            "unidad de medida": "kg",
+                            "precio": 2.5,
+                            "adquirido": true
+                        },
+                        {
+                            "producto": "champú",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 4.3,
+                            "adquirido": false
+                        },
+                        {
+                            "producto": "zumo de naranja",
+                            "unidades": 1,
+                            "unidad de medida": "unidades",
+                            "precio": 1.20,
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
